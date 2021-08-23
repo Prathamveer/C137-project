@@ -1,1 +1,2 @@
-# C137-project
+# Planet-Api-App
+Get planets details
